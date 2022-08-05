@@ -1,0 +1,5 @@
+// export const USER_DATA = 'USER_DATA';
+// export const COMMON_PARAMETERS = 'COMMON_PARAMETERS';
+// export const AUDIO_PARAMETERS = 'AUDIO_PARAMETERS';
+// export const GAME_PARAMETERS = 'GAME_PARAMETERS';
+// export const PROFILE_PIC_CHANGE = 'PROFILE_PIC_CHANGE
